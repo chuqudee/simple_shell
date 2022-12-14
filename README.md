@@ -1,6 +1,6 @@
 # 0x16. C - Simple Shell
  **By Julien Barbier**
- Project to be done in teams of 2 people (your team: Nick Wanjau, Solomon Ferede EzEZ
+ Project to be done in teams of 2 people (your team: Chukwudi Michael Okereafor,Comfort Ajayi Isaac
 
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
